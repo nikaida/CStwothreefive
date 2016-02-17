@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cassert>
 #include <vector>
-
+#include <stdexcept>
 #include "LinkedListInterface.h"
 
 
